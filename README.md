@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java Crypto System**
 
-- 🌱 I’m currently learning **JCA,JAVA, KOTLIN,DART, ANDROID SPRING BOOT.**
+- 🌱 I’m currently learning **JCA,JAVA, KOTLIN,DART, ANDROID and SPRING BOOT.**
 
 - 💬 Ask me about **Java, JDBC,Java Swing,JavaFx Android, Kotlin.**
 
