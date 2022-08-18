@@ -4,6 +4,9 @@
 </p>
 
 
+[![](https://visitcount.itsvg.in/api?id=TukuruJr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <h3 align="center">A passionate Android developer.</h3>
 
 - 🔭 I’m currently working on **Clinic Appointment booking Android application.**
@@ -34,4 +37,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TukuruJr&icon=0&color=0)](https://visitcount.itsvg.in)
