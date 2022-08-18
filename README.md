@@ -1,19 +1,18 @@
+[![](https://visitcount.itsvg.in/api?id=TukuruJr&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Njiraini Francis:
+
 <p align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qwlzpzeasq46qjp32drld2ho5bywch3t4gpy1vxu&rid=giphy.gif&ct=g" alt="gif" width="150" height="150"" />
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=TukuruJr&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">A passionate Software  Developer from Kenya.</h3>
 
-
-<h3 align="center">A passionate Android developer.</h3>
-
-- 🔭 I’m currently working on **Clinic Appointment booking Android application.**
 
 - 🌱 I’m currently focusing on  **Android Development.**
 
-- 🌱 I’m currently learning **Android, Kotlin,  Firebase, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Android,Java, Kotlin,  Firebase, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TukuruJr](https://github.com/TukuruJr)
 
