@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently focusing on  **Android Development.**
 
-- 🌱 I’m currently learning **Android,Java, Kotlin,  Firebase, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Android,Java, Kotlin,Dart/Flutter, Firebase, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TukuruJr](https://github.com/TukuruJr)
 
